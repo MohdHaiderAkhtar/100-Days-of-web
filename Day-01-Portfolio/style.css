@@ -46,6 +46,9 @@ nav a {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
   flex: 1;
 }
+.card:hover {
+  transform: translateY(-5px);
+}
 
 footer {
   background-color: #1e3a8a;
