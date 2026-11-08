@@ -56,8 +56,14 @@ footer {
   text-align: center;
   padding: 20px;
 }
+.btn:hover {
+  background-color: #e0f2fe;
+}
 @media (max-width: 600px) {
   .hero h1 {
     font-size: 28px;
+  }
+  .hero {
+    padding: 50px 20px;
   }
 }
